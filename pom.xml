@@ -86,10 +86,5 @@
 				<enabled>true</enabled>
 			</snapshots>
 		</repository>
-        <repository>
-            <id>repo.maven.apache.org</id>
-            <name>Apache Repo</name>
-            <url>http://repo.maven.apache.org/maven2</url>
-        </repository>
     </repositories>
 </project>
